@@ -1,0 +1,28 @@
+# Core data stack
+pandas>=1.5
+numpy>=1.24
+
+# Database / SQL
+sqlalchemy>=1.4
+pymysql>=1.0
+
+# Jupyter environment
+jupyterlab>=3.5
+notebook>=6.5
+ipykernel>=6.10
+nbconvert>=6.5
+
+
+
+# Excel / file handling
+openpyxl>=3.0
+xlrd>=2.0
+
+# Kaggle CLI (for dataset downloads)
+kaggle>=1.5
+
+# Environment variables / secrets handling
+python-dotenv>=0.21
+
+# Crypto support for PyMySQL auth methods (MySQL 8+)
+cryptography>=38.0
